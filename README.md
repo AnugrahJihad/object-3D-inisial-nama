@@ -4,12 +4,12 @@ Repositori ini berisi tugas akhir mata kuliah **Grafis dan Visualisasi** berupa 
 
 ## Isi Repo
 
-- `AJNR_3D.pde` – File kode program menggunakan Processing untuk membuat objek 3D.
+- `23106050051_Anugrah Jihad Nur Ridho.pde` – File kode program menggunakan Processing untuk membuat objek 3D.
 - `preview.png` – Gambar hasil akhir dari objek 3D yang telah dibuat.
 
 ## Cara Menjalankan
 
-1. Buka file `AJNR_3D.pde` menggunakan aplikasi Processing.
+1. Buka file `23106050051_Anugrah Jihad Nur Ridho.pde` menggunakan aplikasi Processing.
 2. Jalankan program untuk melihat objek 3D.
 
 ---
