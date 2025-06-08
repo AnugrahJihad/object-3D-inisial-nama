@@ -5,7 +5,7 @@ Repositori ini berisi tugas akhir mata kuliah **Grafis dan Visualisasi** berupa 
 ## Isi Repo
 
 - `23106050051_Anugrah Jihad Nur Ridho.pde` – File kode program menggunakan Processing untuk membuat objek 3D.
-- `preview.png` – Gambar hasil akhir dari objek 3D yang telah dibuat.
+- `Peview.png` – Gambar hasil akhir dari objek 3D yang telah dibuat.
 
 ## Cara Menjalankan
 
